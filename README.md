@@ -1,2 +1,2 @@
-# golangTutorial
+# GolangTutorial
 golangTutorial
